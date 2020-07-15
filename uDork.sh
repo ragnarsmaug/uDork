@@ -6,7 +6,7 @@
 # ATENTION!!! Add your cookies as follows:
 # cookies="c_user=xxxxxxxxxxxxxxx; xs=xxxxxxxxxxxxxxxxxx;"
 # Instructions: https://c43s4rs.blogspot.com/2020/03/udork-tu-herramienta-para-google-dorks.html
-cookies="c_user=HEREYOUCOOKIE; xs=HEREYOUCOOKIE;" 
+cookies="c_user=datr; xs=018PXx1a1IRzmUMbtfnPoqGH;" 
 ##################################################################################################
 
 # Variables
@@ -63,7 +63,7 @@ separador
 }
 # Menu
 menu(){
-echo " ./uDork.sh <Domain/IP> [option] <string> / all"
+echo " ./uDork.sh mpago.la -g portal_logins"
 echo ""
 echo '======================== OPCIONES ========================
  -e <extensión> / <all> : Search files by extension. Use 'all' to find the list extension.
